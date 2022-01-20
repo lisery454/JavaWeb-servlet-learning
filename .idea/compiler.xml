@@ -9,7 +9,9 @@
         <module name="servlet-02" />
         <module name="request" />
         <module name="servlet-01" />
+        <module name="cookie" />
         <module name="response" />
+        <module name="jsp" />
       </profile>
     </annotationProcessing>
   </component>
