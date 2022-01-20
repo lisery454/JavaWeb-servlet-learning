@@ -1,0 +1,3 @@
+com\lisery\servlet\RedirectServlet.class
+com\lisery\servlet\FileServlet.class
+com\lisery\servlet\ImageServlet.class
